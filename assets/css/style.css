@@ -17,7 +17,7 @@ table tbody tr:nth-child(2n){
     background-color: #efefef;
 }
 header{
-    background-color: orangered;
+    background-color: teal;
     color: white;
     top: 0;
 }
